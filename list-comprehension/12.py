@@ -1,3 +1,4 @@
+# Create a list of Pythagorean triplets (a, b, c) where 1 <= a, b, c <= 20 and a² + b² = c².
 # a=[]
 # for i in range(1,21):
 #     for j in range(1,21):
